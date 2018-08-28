@@ -2,7 +2,7 @@
 HTML5 website with a responsive layout created by following a tutorial
 
 ## Demo
-https://isabellepotvin.github.io/Acme-Web-Design/
+https://isabellepotvin.github.io/Responsive-Website-Acme/
 
 ## Youtube Tutorial
 Link: https://youtu.be/Wm6CUkswsNw
