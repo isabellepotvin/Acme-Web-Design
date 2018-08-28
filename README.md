@@ -1,4 +1,4 @@
-# Acme-Web-Design
+# Responsive-Website-Acme
 Responsive website created by following tutorials
 
 ## Demo
