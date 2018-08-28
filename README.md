@@ -1,5 +1,5 @@
 # Responsive-Website-Acme
-HTML5 website with a responsive layout created by following tutorials
+HTML5 website with a responsive layout created by following a tutorial
 
 ## Demo
 https://isabellepotvin.github.io/Acme-Web-Design/
